@@ -3,3 +3,5 @@
 #### Department: Computer Science
 #### Github acc: [@Blaqsmart](https://github.com/Blaqsmart)
 #### Calculator repo: [Swing Calculator](https://github.com/Blaqsmart/Swing-Calculator-U23CS1018)
+
+![Alt](https://github.com/Blaqsmart/Swing-Calculator-U23CS1018/blob/main/calculator-pic.jpg)
