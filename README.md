@@ -10,4 +10,4 @@ A Basic calculator application built with java swing, performing simple arithmet
 
 ## Screenshot
 
-![Calculator-Picture](./images/calculator-pic.png)
+![Calculator-Picture](./images/calculator-img.png)
